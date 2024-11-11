@@ -5,16 +5,45 @@
     </picture>
 </a>
 
+Official GitHub organization of [University Of Opole - Institute of Computer Science](https://informatyka.uni.opole.pl/)
 
-`Epic Games` houses repositories associated with the [UnrealEngine](https://www.unrealengine.com/)
-
-[Unreal Engine](https://www.unrealengine.com/en-US/solutions/games) for game development is free to get started (a 5% royalty only kicks in when your title earns over $1 million USD)
-
-To access our repositories, sign up for an Epic account at [UnrealEngine.com](https://www.unrealengine.com) and register your GitHub ID using [these instructions](https://www.unrealengine.com/ue4-on-github). 
-
-After that, you can find our repositories here:
-
-*  [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
-*  [Unreal Tournament](https://github.com/EpicGames/UnrealTournament)
-  
-(Note that you must be signed into GitHub for these links to work.)
+Research teams and their members:
+Computer Logics
+dr hab. Lidia Tendera, prof. UO [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=133)Kierownik zespołu
+prof. dr hab Aleksander Iwanow [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=292)
+prof. dr Ian Pratt-Hartmann [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=219 )
+mgr inż. Dariusz Marzec [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=263 )
+dr Zbigniew Bonikowski [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=92)
+dr Andrzej Jasiński [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=148 )
+ 
+Unification in Modal Logics
+dr hab Barbara Morawska [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=285 )Kierownik zespołu
+dr Sławomir Kost [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=226 )
+mgr inż. Dariusz Marzec [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=263 )
+ 
+Operating Systems / AI
+dr hab. inż. Mariusz Pelc, prof. UO [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=286 )Kierownik zespołu
+dr inż. Sławomir Stemplewski [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=222 )
+dr inż. Piotr Dzierwa [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=252 )
+mgr inż. Michał Szczerba [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=265 )
+dr Zbigniew Lipiński [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=163 )
+dr Aasam Abdul Karim [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=289 )
+mgr inż. Patryk Mendoń [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=287 )
+mgr inż. Marcin Szymanek [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=229 )
+ 
+IT Security
+dr inż. Adam Czubak [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=173 )Kierownik zespołu
+dr Jarosław Kobiela [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=254 )
+dr hab. inż. Michał Podpora, prof. UO [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=291 )
+dr Piotr Urbaniec [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=134 )
+mgr inż. Tomasz Machalewski [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=262 )
+dr Jolanta Tańcula [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=221 )
+mgr inż. Marek Barycki [GitHub]()[Website](http://informatyka.wmfi.uni.opole.pl/pracownik/?id=213)
+ 
+Optimization, Approximation, and Game Theory
+dr Gleb Polevoy, prof. UO [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=290)Kierownik zespołu
+dr inż. Grażyna Suchacka [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=208 )
+dr Jacek Iwański [GitHub]()[Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=171 )
+dr inż. Andrzej Kozik [GitHub]()[Website](http://informatyka.wmfi.uni.opole.pl/pracownik/?id=217)
+mgr inż. Mariusz Marek [GitHub]()[Website](http://informatyka.wmfi.uni.opole.pl/pracownik/?id=247)
+dr Sebastian Bala [GitHub]()[Website](http://informatyka.wmfi.uni.opole.pl/pracownik/?id=215)
