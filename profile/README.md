@@ -7,11 +7,11 @@
 
 ### Official GitHub organization of [University Of Opole - Institute of Computer Science](https://informatyka.uni.opole.pl/)
 
-####[Contact](https://ii.wmfi.uni.opole.pl/kontakt/)
-University Of Opole - Institute of Computer Science
-pl. Oleska 48
-45-052 Opole
-Poland
+[Contact](https://ii.wmfi.uni.opole.pl/kontakt/)<br>
+University Of Opole - Institute of Computer Science<br>
+pl. Oleska 48<br>
+45-052 Opole<br>
+Poland<br>
 E-mail: ii@uni.opole.pl
 
 #### Research teams and their members:<br>
