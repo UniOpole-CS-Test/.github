@@ -5,10 +5,10 @@
     </picture>
 </a>
 
-### Official GitHub organization of [University Of Opole - Institute of Computer Science](https://informatyka.uni.opole.pl/)
+### Official GitHub organization of [Institute of Computer Science - University Of Opole](https://informatyka.uni.opole.pl/)
 
 [Contact](https://ii.wmfi.uni.opole.pl/kontakt/)<br>
-University Of Opole - Institute of Computer Science<br>
+Institute of Computer Science - University Of Opole<br>
 pl. Oleska 48<br>
 45-052 Opole<br>
 Poland<br>
