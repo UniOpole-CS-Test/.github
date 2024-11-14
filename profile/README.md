@@ -7,6 +7,13 @@
 
 ### Official GitHub organization of [University Of Opole - Institute of Computer Science](https://informatyka.uni.opole.pl/)
 
+####[Contact](https://ii.wmfi.uni.opole.pl/kontakt/)
+University Of Opole - Institute of Computer Science
+pl. Oleska 48
+45-052 Opole
+Poland
+E-mail: ii@uni.opole.pl
+
 #### Research teams and their members:<br>
 **Computer Logic**<br>
 `Team Leader` dr hab. Lidia Tendera, prof. UO [GitHub]() [Website](https://informatyka.wmfi.uni.opole.pl/pracownik/?id=133)<br>
