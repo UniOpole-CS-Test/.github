@@ -14,7 +14,7 @@ pl. Oleska 48<br>
 Poland<br>
 E-mail: ii@uni.opole.pl
 
-#### Research teams and their members:<br>
+#### Research teams:<br>
 **Computer Logic**<br>
 **Unification in Modal Logics**<br>
 **Operating Systems / AI**<br>
